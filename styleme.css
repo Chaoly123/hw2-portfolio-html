@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+div {
+    width: 300px;
+    border: 20px solid grey;
+    padding: 20px;
+    margin: 30px;
+}
+
+
+
 .info {
     background-color: grey;
     color: white;
@@ -57,7 +66,7 @@ ul li {
 
 .splash {
     background-image: url("https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
-    min-height: 350px;
+    min-height: 50px;
     max-height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
