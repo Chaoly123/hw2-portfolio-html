@@ -3,12 +3,19 @@
     padding: 0;
 }
 
+.git {
+    display: inline;
+    margin: 20px 0 40px 100px;
+    text-align: left;
+}
+
 .head {
     font-size: 50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: normal;
     font-weight: bold;
 }
+
 .info {
     background-color: grey;
     color: white;
