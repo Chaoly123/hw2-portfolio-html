@@ -33,13 +33,25 @@
 }
 
 div.experince {
-    background-color: yellow;
-    color: black;
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
 }
 
 div.links {
-    background-color: blueviolet;
-    color: yellow;
+    background-color: grey;
+    color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
 }
 
 p {
